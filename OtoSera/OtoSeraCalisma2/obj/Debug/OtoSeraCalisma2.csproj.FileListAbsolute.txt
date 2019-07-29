@@ -1,0 +1,22 @@
+c:\users\eru\documents\visual studio 2013\Projects\OtoSeraCalisma2\OtoSeraCalisma2\bin\Debug\OtoSeraCalisma2.exe.config
+c:\users\eru\documents\visual studio 2013\Projects\OtoSeraCalisma2\OtoSeraCalisma2\bin\Debug\OtoSeraCalisma2.exe
+c:\users\eru\documents\visual studio 2013\Projects\OtoSeraCalisma2\OtoSeraCalisma2\bin\Debug\OtoSeraCalisma2.pdb
+c:\users\eru\documents\visual studio 2013\Projects\OtoSeraCalisma2\OtoSeraCalisma2\obj\Debug\OtoSeraCalisma2.Properties.Resources.resources
+c:\users\eru\documents\visual studio 2013\Projects\OtoSeraCalisma2\OtoSeraCalisma2\obj\Debug\OtoSeraCalisma2.csproj.GenerateResource.Cache
+c:\users\eru\documents\visual studio 2013\Projects\OtoSeraCalisma2\OtoSeraCalisma2\obj\Debug\OtoSeraCalisma2.exe
+c:\users\eru\documents\visual studio 2013\Projects\OtoSeraCalisma2\OtoSeraCalisma2\obj\Debug\OtoSeraCalisma2.pdb
+c:\users\eru\documents\visual studio 2013\Projects\OtoSeraCalisma2\OtoSeraCalisma2\obj\Debug\OtoSeraCalisma2.GirisEkrani.resources
+c:\users\eru\documents\visual studio 2013\Projects\OtoSeraCalisma2\OtoSeraCalisma2\obj\Debug\OtoSeraCalisma2.UyelikEkrani.resources
+C:\Users\Eru\documents\visual studio 2013\Projects\OtoSeraCalisma2\OtoSeraCalisma2\obj\Debug\OtoSeraCalisma2.YoneticiEkrani.resources
+C:\Users\Eru\documents\visual studio 2013\Projects\OtoSeraCalisma2\OtoSeraCalisma2\obj\Debug\OtoSeraCalisma2.CiftciEkrani.resources
+C:\Users\Eru\documents\visual studio 2013\Projects\OtoSeraCalisma2\OtoSeraCalisma2\obj\Debug\OtoSeraCalisma2.ProfilEkrani.resources
+C:\Users\Eru\documents\visual studio 2013\Projects\OtoSeraCalisma2\OtoSeraCalisma2\bin\Debug\tr-TR\OtoSeraCalisma2.resources.dll
+C:\Users\Eru\documents\visual studio 2013\Projects\OtoSeraCalisma2\OtoSeraCalisma2\obj\Debug\OtoSeraCalisma2.UyelikEkrani.tr-TR.resources
+C:\Users\Eru\documents\visual studio 2013\Projects\OtoSeraCalisma2\OtoSeraCalisma2\obj\Debug\tr-TR\OtoSeraCalisma2.resources.dll
+C:\Users\Eru\documents\visual studio 2013\Projects\OtoSeraCalisma2\OtoSeraCalisma2\obj\Debug\OtoSeraCalisma2.GirisEkrani.tr-TR.resources
+C:\Users\Eru\documents\visual studio 2013\Projects\OtoSeraCalisma2\OtoSeraCalisma2\obj\Debug\OtoSeraCalisma2.UrunKayit.resources
+C:\Users\Eru\documents\visual studio 2013\Projects\OtoSeraCalisma2\OtoSeraCalisma2\obj\Debug\OtoSeraCalisma2.UrunGuncelle.resources
+C:\Users\Eru\documents\visual studio 2013\Projects\OtoSeraCalisma2\OtoSeraCalisma2\obj\Debug\OtoSeraCalisma2.csprojResolveAssemblyReference.cache
+C:\Users\Eru\Desktop\OtoSera\OtoSeraCalisma2\bin\Debug\OtoSeraCalisma2.exe.config
+C:\Users\Eru\Desktop\OtoSera\OtoSeraCalisma2\obj\Debug\OtoSeraCalisma2.exe
+C:\Users\Eru\Desktop\OtoSera\OtoSeraCalisma2\obj\Debug\OtoSeraCalisma2.pdb

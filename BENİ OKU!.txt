@@ -1,0 +1,6 @@
+1. 	admin giriþi bilgileri	 kullanýcý adý: admin þifre: admin 
+	hazýr kayýt bilgileri	 kullanýcý adý: fatih þifre: 1
+
+2. Yeni kayýt onaylarýnda adres bilgisi doðruluðu zorunludur. Ana anahtar posta kodudur. 
+
+3. Devre þemasý tasarýmlarý için Fritzing uygulamasý kullanýlmýþtýr. 

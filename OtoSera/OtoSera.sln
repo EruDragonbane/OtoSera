@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtoSera", "OtoSeraCalisma2\OtoSera.csproj", "{A809D180-34B3-493B-8149-5C7212E3F155}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "14545010_Fatih_Akkurt", "..\..\..\..\..\..\Projeler\14545010_Fatih_Akkurt\14545010_Fatih_Akkurt.vdproj", "{B4C790B3-AF06-4F8D-B31B-886964F29C8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A809D180-34B3-493B-8149-5C7212E3F155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A809D180-34B3-493B-8149-5C7212E3F155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A809D180-34B3-493B-8149-5C7212E3F155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A809D180-34B3-493B-8149-5C7212E3F155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4C790B3-AF06-4F8D-B31B-886964F29C8B}.Debug|Any CPU.ActiveCfg = Debug
+		{B4C790B3-AF06-4F8D-B31B-886964F29C8B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
